@@ -1,0 +1,2 @@
+# Fuel-Temperature-Predictive-Model
+This predictive framework calculates temperatures under which chemical mixtures combust most efficiently. This program is hardcoded to predict this optimal combustion temperature, or superheat limit, for a particular surrogate (replacement mixture) for a given jet fuel. Its hardcoded inputs are commonly-known characteristics of each of the different components in the mixture, and it uses predictive theory to calculate properties of the mixture including its superheat limit.
